@@ -1,7 +1,6 @@
 //___FILEHEADER___
 
-@testable import ___WORKSPACENAME___
-import TestSupport
+@testable import ___VARIABLE_moduleName:identifier___
 import XCTest
 
 @MainActor

@@ -36,6 +36,20 @@
         <key>NotPersisted</key>
         <true/>
       </dict>
+      <dict>
+        <key>Identifier</key>
+        <string>moduleName</string>
+        <key>Required</key>
+        <true/>
+        <key>Name</key>
+        <string>Module:</string>
+        <key>Description</key>
+        <string>The name of the module you're testing</string>
+        <key>Type</key>
+        <string>text</string>
+        <key>NotPersisted</key>
+        <false/>
+      </dict>
     </array>
     <key>MainTemplateFile</key>
     <string>___FILEBASENAME___.swift</string>
